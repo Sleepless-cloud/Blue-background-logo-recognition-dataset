@@ -1,0 +1,1 @@
+# Blue-background-logo-recognition-dataset
